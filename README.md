@@ -1,6 +1,6 @@
 # Accident-Detecting-and-Alert-Sending-Using-Android-SmartPhones
 
-# About Project
+## About Project
 Accident Detection and Alert System using Android smartphones is a system to
 detect accident and report it to emergency contacts using SMS services so that
 response time may be decreased. The message will be sent to **emergency contacts**
@@ -17,4 +17,4 @@ language keeping in mind Google’s attempt to popularise it.
 On the whole, the application tend to be user friendly and help user in case of an
 accident.
 
-# Demo
+## Demo
